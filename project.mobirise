@@ -28,8 +28,7 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#32064a",
-        "#dab1f1"
+        "#32064a"
       ]
     },
     "path": "@PROJECT_PATH@",
