@@ -1312,7 +1312,7 @@ body {
 .cid-rjXVqNhKR2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #dab1f1;
+  background-color: #ffffff;
 }
 .cid-rjXVqNhKR2 .mbr-section-subtitle {
   color: #767676;
@@ -1497,8 +1497,8 @@ body {
   color: #ffffff;
 }
 .cid-rjXVGNR8Wo {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #efefef;
 }
 .cid-rjXVGNR8Wo .pricing {
@@ -1535,9 +1535,9 @@ body {
   margin: 2rem 0;
 }
 .cid-rjXVKvDA3T {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #32064a;
 }
 .cid-rjXVKvDA3T .socicon-bg-facebook {
   background: #3e5b98;
@@ -1579,8 +1579,15 @@ body {
     font-size: 20px !important;
   }
 }
+.cid-rjXVKvDA3T .mbr-section-title {
+  color: #ffffff;
+}
 .cid-rjXVNr2vCI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/footer-ibat-college-1-996x566.jpg");
+}
+.cid-rjXVNr2vCI .mbr-text,
+.cid-rjXVNr2vCI .mbr-section-btn {
+  color: #ffffff;
 }
